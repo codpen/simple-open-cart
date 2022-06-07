@@ -141,11 +141,3 @@ To run this project, you will need to add the following environment variables to
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Feedback
-
-Joseph Odunsi - [@odunsi](https://twitter.com/_odunsi_) - odunsiolakunbi@gmail.com
-
-Project Link: [https://github.com/dhatguy/PERN-Store](https://github.com/dhatguy/PERN-Store)
-
-Demo Link: [https://pern-store.netlify.app](https://pern-store.netlify.app)
